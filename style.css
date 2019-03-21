@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(196, 200, 207)
+    /* linear-gradient: (to right, rgb(7, 29, 62), rgb(127, 146, 176)) */
+}
+
+hr {
+    border-style: inset;
+    border-width: .5px;
+    border-color: gray
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid black;
+  }
